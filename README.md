@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 </span>
 
 ### Hardware
+<span>
 <!-- <img src="https://img.shields.io/badge/verilog-20232a.svg?style=for-the-badge&logo=verilog&logoColor=61DAFB" /> -->
 <img src="https://img.shields.io/badge/Verilog-20232a.svg?style=for-the-badge&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Systemverilog-20232a.svg?style=for-the-badge&logoColor=61DAFB" />
+</span>
 
 ### Top Language Card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friday930&layout=compact)
