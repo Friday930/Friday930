@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### Hardware
-<img src="https://img.shields.io/badge/verilog-20232a.svg?style=for-the-badge&logo=verilog&logoColor=61DAFB" />
+<!-- <img src="https://img.shields.io/badge/verilog-20232a.svg?style=for-the-badge&logo=verilog&logoColor=61DAFB" /> -->
+<img src="https://img.shields.io/badge/verilog-20232a.svg?style=for-the-badge&logoColor=61DAFB" />
+
