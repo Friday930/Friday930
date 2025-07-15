@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <!-- Body -->
 
 ## ✋ About Me
-### :fire: I aim to become a Semiconductor Engineer.
-### 👨‍🎓 Bachelor of Electronic Engineering, Kyung Hee University.
+#### :fire: I aim to become a Semiconductor Engineer.
+#### 👨‍🎓 Bachelor of Electronic Engineering, Kyung Hee University.
