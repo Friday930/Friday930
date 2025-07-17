@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 #### :fire: I aim to become a Hardware Engineer.
 #### 👨‍🎓 Bachelor of Electronic Engineering, Kyung Hee University.
 
-<div>
-
 ## 🧱 Tech Stack
 ### Software
 <span>
@@ -35,8 +33,6 @@ Here are some ideas to get you started:
 <!-- Python -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </span>
-
-</div>
 
 ### Hardware
 <span>
