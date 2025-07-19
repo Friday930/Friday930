@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-ff5722?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-ff9800?style=for-the-badge)
 
-### Tools
+### Tool
 ![Cadence](https://img.shields.io/badge/Tool-Cadence-E92F1A?style=for-the-badge)
 ![PADS](https://img.shields.io/badge/Tool-PADS-3D0AE4?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Tool-Vivado-904cab?style=for-the-badge&logo=&logoColor=white)
