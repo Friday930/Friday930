@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![Arduino](https://img.shields.io/badge/Board-Arduino-00979C?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Board-RaspberryPi-C51A4A?style=for-the-badge)
 ![Basys3](https://img.shields.io/badge/Board-Basys3-0535c6?style=for-the-badge)
+![STM32](https://img.shields.io/badge/Board-STM32-003057?style=for-the-badge)
 ![Zybo](https://img.shields.io/badge/Board-Zybo-03b335?style=for-the-badge)
 
 ### Top Language Card
