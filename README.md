@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ### Software
 <span>
 <!-- C -->
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+![C](https://img.shields.io/badge/Lang-C-3776AB?style=for-the-badge)
+
 <!-- Python -->
 ![Python](https://img.shields.io/badge/Lang-Python-3776AB?style=for-the-badge)
 </span>
