@@ -49,10 +49,6 @@ Here are some ideas to get you started:
 ![STM32](https://img.shields.io/badge/Board-STM32-003057?style=for-the-badge)
 ![Zybo](https://img.shields.io/badge/Board-Zybo-03b335?style=for-the-badge)
 
-### Top Language Card
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friday930&layout=compact)
-
-
 ## 🕹️ Projects
 ### Harman Semicon Academy
 
