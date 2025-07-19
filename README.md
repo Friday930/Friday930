@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### Board
 ![Arduino](https://img.shields.io/badge/Tool-Arduino-00979C?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Tool-RaspberryPi-6CC04A?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Tool-RaspberryPi-C51A4A?style=for-the-badge)
 ![Basys3](https://img.shields.io/badge/Tool-Basys3-0535c6?style=for-the-badge)
 ![Zybo](https://img.shields.io/badge/Tool-Zybo-03b335?style=for-the-badge)
 
