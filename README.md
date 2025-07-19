@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🧱 Tech Stack
 ### Software
-![C](https://img.shields.io/badge/Lang-C-3776AB?style=for-the-badge)
+![C](https://img.shields.io/badge/Lang-C-2AD8E8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Lang-Python-3776AB?style=for-the-badge)
 
 
