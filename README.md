@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## ✋ About Me
 #### :fire: I aim to become a Hardware Engineer.
 #### 👨‍🎓 Bachelor of Electronic Engineering, Kyung Hee University.
+#### Email : tukankr@gmail.com
 
 ## 🧱 Tech Stack
 ### Software
