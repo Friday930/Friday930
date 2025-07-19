@@ -39,14 +39,20 @@ Here are some ideas to get you started:
 ![Cadence](https://img.shields.io/badge/Tool-Cadence-E92F1A?style=for-the-badge)
 ![PADS](https://img.shields.io/badge/Tool-PADS-3D0AE4?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Tool-Vivado-904cab?style=for-the-badge&logo=&logoColor=white)
-![Verdi](https://img.shields.io/badge/Tool-Verdi-00c853?style=for-the-badge)
-![VCS](https://img.shields.io/badge/Tool-VCS-00695c?style=for-the-badge)
+![Verdi](https://img.shields.io/badge/Tool-Verdi-00C853?style=for-the-badge)
+![VCS](https://img.shields.io/badge/Tool-VCS-00695C?style=for-the-badge)
+
+### Board
+![Arduino](https://img.shields.io/badge/Tool-Arduino-00979C?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Tool-RaspberryPi-6CC04A?style=for-the-badge)
+![Basys3](https://img.shields.io/badge/Tool-Basys3-0535c6?style=for-the-badge)
+![Zybo](https://img.shields.io/badge/Tool-Zybo-03b335?style=for-the-badge)
 
 ### Top Language Card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friday930&layout=compact)
 
 
 ## 🕹️ Projects
-### 
+####  
 
 
