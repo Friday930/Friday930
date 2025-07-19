@@ -27,18 +27,13 @@ Here are some ideas to get you started:
 
 ## 🧱 Tech Stack
 ### Software
-<!-- C -->
 ![C](https://img.shields.io/badge/Lang-C-3776AB?style=for-the-badge)
-<!-- Python -->
 ![Python](https://img.shields.io/badge/Lang-Python-3776AB?style=for-the-badge)
 
 
 ### Hardware
-<span>
-<!-- <img src="https://img.shields.io/badge/verilog-20232a.svg?style=for-the-badge&logo=verilog&logoColor=61DAFB" /> -->
-<img src="https://img.shields.io/badge/Verilog-20232a.svg?style=for-the-badge&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/SystemVerilog-20232a.svg?style=for-the-badge&logoColor=61DAFB" />
-</span>
+![Verilog](https://img.shields.io/badge/HDL-Verilog-ff5722?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-ff9800?style=for-the-badge)
 
 ### Top Language Card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friday930&layout=compact)
