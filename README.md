@@ -30,13 +30,15 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/Lang-C-2AD8E8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Lang-Python-3776AB?style=for-the-badge)
 
-
 ### Hardware
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-ff5722?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-ff9800?style=for-the-badge)
 
 ### Top Language Card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friday930&layout=compact)
+
+### Tools
+![Cadence](https://img.shields.io/badge/EDA-Cadence-E92F1A?style=for-the-badge)
 
 ## 🕹️ Projects
 ### 
