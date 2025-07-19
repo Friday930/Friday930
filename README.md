@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 ![VCS](https://img.shields.io/badge/Tool-VCS-00695C?style=for-the-badge)
 
 ### Board
-![Arduino](https://img.shields.io/badge/Tool-Arduino-00979C?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Tool-RaspberryPi-C51A4A?style=for-the-badge)
-![Basys3](https://img.shields.io/badge/Tool-Basys3-0535c6?style=for-the-badge)
-![Zybo](https://img.shields.io/badge/Tool-Zybo-03b335?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Board-Arduino-00979C?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Board-RaspberryPi-C51A4A?style=for-the-badge)
+![Basys3](https://img.shields.io/badge/Board-Basys3-0535c6?style=for-the-badge)
+![Zybo](https://img.shields.io/badge/Board-Zybo-03b335?style=for-the-badge)
 
 ### Top Language Card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friday930&layout=compact)
