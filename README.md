@@ -27,14 +27,11 @@ Here are some ideas to get you started:
 
 ## 🧱 Tech Stack
 ### Software
-<span>
 <!-- C -->
-
 ![C](https://img.shields.io/badge/Lang-C-3776AB?style=for-the-badge)
-
 <!-- Python -->
 ![Python](https://img.shields.io/badge/Lang-Python-3776AB?style=for-the-badge)
-</span>
+
 
 ### Hardware
 <span>
