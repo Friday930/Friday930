@@ -34,11 +34,16 @@ Here are some ideas to get you started:
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-ff5722?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-ff9800?style=for-the-badge)
 
+### Tools
+![Cadence](https://img.shields.io/badge/Tool-Cadence-E92F1A?style=for-the-badge)
+![PADS](https://img.shields.io/badge/Tool-PADS-3D0AE4?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Tool-Vivado-904cab?style=for-the-badge&logo=&logoColor=white)
+![Verdi](https://img.shields.io/badge/Tool-Verdi-00c853?style=for-the-badge)
+![VCS](https://img.shields.io/badge/Tool-VCS-00695c?style=for-the-badge)
+
 ### Top Language Card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friday930&layout=compact)
 
-### Tools
-![Cadence](https://img.shields.io/badge/EDA-Cadence-E92F1A?style=for-the-badge)
 
 ## 🕹️ Projects
 ### 
