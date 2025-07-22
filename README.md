@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 🕹️ Projects
 ### Harman Semicon Academy
-`verilog`
+#### - Handband (https://github.com/Friday930/HandBand/tree/main) `Verilog` `SystemVerilog` `C` `Python`
 
 
 
