@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 🕹️ Projects
 ### Harman Semicon Academy
-![Verilog](https://img.shields.io/badge/Verilog-10B981?style=flat)
+`verilog`
 
 
 
