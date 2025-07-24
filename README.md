@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 #### Email : tukankr@gmail.com
 
 ## 🧱 Tech Stack
-### Software
+### Language
 ![C](https://img.shields.io/badge/Lang-C-2AD8E8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Lang-Python-3776AB?style=for-the-badge)
-
-### Hardware
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-ff5722?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-ff9800?style=for-the-badge)
 
@@ -43,7 +41,6 @@ Here are some ideas to get you started:
 ![VCS](https://img.shields.io/badge/Tool-VCS-00695C?style=for-the-badge)
 
 ### Board
-![Arduino](https://img.shields.io/badge/Board-Arduino-00979C?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Board-RaspberryPi-C51A4A?style=for-the-badge)
 ![Basys3](https://img.shields.io/badge/Board-Basys3-0535c6?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/Board-STM32-003057?style=for-the-badge)
