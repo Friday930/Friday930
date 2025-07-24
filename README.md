@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-ff5722?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-ff9800?style=for-the-badge)
 - C / Python
-    - STM32 임베디드 제어, 센서 데이터 처리, UART·I2C·SPI 프로토콜 구현, API 데이터 자동화
-
+    - STM32 임베디드 제어, 센서 데이터 처리, API 데이터 자동화
+- Verilog / SystemVerilog
+    - RISC-V CPU, UART·I2C·SPI 프로토콜 구현 등 RTL 회로 설계 및 검증(UVM 테스트벤치 등)
 ### Tool
 ![Cadence](https://img.shields.io/badge/Tool-Cadence-E92F1A?style=for-the-badge)
 ![PADS](https://img.shields.io/badge/Tool-PADS-3D0AE4?style=for-the-badge)
