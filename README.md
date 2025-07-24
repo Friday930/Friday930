@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![Verdi](https://img.shields.io/badge/Tool-Verdi-00C853?style=for-the-badge)
 ![VCS](https://img.shields.io/badge/Tool-VCS-00695C?style=for-the-badge)
 - Vivado
-    - FPGA synthesis, Implementation, 타이밍 분석, Bitstream 생성 및 다운로드까지 전체 Flow 숙련.
+    - FPGA Synthesis, Implementation, 타이밍 분석, Bitstream 생성 및 다운로드까지 전체 Flow 숙련.
     - AXI, SPI, I2C 등 다양한 IP 직접 설계/적용, Logic Analyzer로 실시간 신호 검증.
 
 - Verdi / VCS
