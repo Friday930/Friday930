@@ -45,17 +45,24 @@ Here are some ideas to get you started:
     - FPGA 구현(Vivado), 타이밍 분석 및 실시간 디버깅까지 전체 flow 경험.
 
 ### Tool
-![Cadence](https://img.shields.io/badge/Tool-Cadence-E92F1A?style=for-the-badge)
-![PADS](https://img.shields.io/badge/Tool-PADS-3D0AE4?style=for-the-badge)
+<!-- ![Cadence](https://img.shields.io/badge/Tool-Cadence-E92F1A?style=for-the-badge)
+![PADS](https://img.shields.io/badge/Tool-PADS-3D0AE4?style=for-the-badge) -->
 ![Vivado](https://img.shields.io/badge/Tool-Vivado-904cab?style=for-the-badge&logo=&logoColor=white)
 ![Verdi](https://img.shields.io/badge/Tool-Verdi-00C853?style=for-the-badge)
 ![VCS](https://img.shields.io/badge/Tool-VCS-00695C?style=for-the-badge)
 
 ### Board
-![Raspberry Pi](https://img.shields.io/badge/Board-RaspberryPi-C51A4A?style=for-the-badge)
+<!-- ![Raspberry Pi](https://img.shields.io/badge/Board-RaspberryPi-C51A4A?style=for-the-badge) -->
 ![Basys3](https://img.shields.io/badge/Board-Basys3-0535c6?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/Board-STM32-003057?style=for-the-badge)
 ![Zybo](https://img.shields.io/badge/Board-Zybo-03b335?style=for-the-badge)
+- STM32
+    - 실시간 센서 제어 및 데이터 수집, 인터럽트 기반 이벤트 처리, UART 연동 등 임베디드 시스템 구현.
+    - 온습도 센서, 초음파, LCD, RF 모듈 등 다양한 하드웨어 연동 프로젝트 진행.
+
+- Basys3 / Zybo
+    - Verilog/SystemVerilog 기반 SoC 설계, VGA 영상 출력, SPI/I2C 통신, FSM 제어 등 다양한 디지털 회로 실습 및 실제 구현.
+    - Vivado와 연계한 논리합성, 타이밍 검증, 하드웨어 디버깅 경험.
 
 ## 🕹️ Projects
 ### Harman Semicon Academy
