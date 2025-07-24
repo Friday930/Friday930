@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## ✋ About Me
 #### :fire: I aim to become a Hardware Engineer.
 #### 👨‍🎓 Bachelor of Electronic Engineering, Kyung Hee University.
-#### Email : tukankr@gmail.com
+#### Email : tukankr@naver.com
 
 ## 🧱 Tech Stack
 ### Language
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Lang-Python-3776AB?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-ff5722?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-ff9800?style=for-the-badge)
+- C / Python
+    - STM32 임베디드 제어, 센서 데이터 처리, UART·I2C·SPI 프로토콜 구현, API 데이터 자동화
 
 ### Tool
 ![Cadence](https://img.shields.io/badge/Tool-Cadence-E92F1A?style=for-the-badge)
