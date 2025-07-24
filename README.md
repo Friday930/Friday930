@@ -50,7 +50,12 @@ Here are some ideas to get you started:
 ![Vivado](https://img.shields.io/badge/Tool-Vivado-904cab?style=for-the-badge&logo=&logoColor=white)
 ![Verdi](https://img.shields.io/badge/Tool-Verdi-00C853?style=for-the-badge)
 ![VCS](https://img.shields.io/badge/Tool-VCS-00695C?style=for-the-badge)
-
+- Vivado
+    - FPGA synthesis, Implementation, 타이밍 분석, Bitstream 생성 및 다운로드까지 전체 Flow 숙련.
+    - AXI, SPI, I2C 등 다양한 IP 직접 설계/적용, Logic Analyzer로 실시간 신호 검증.
+- Verdi / VCS
+    - RTL 시뮬레이션, 웨이브폼 분석을 통한 신호 타이밍 및 버그 원인 분석.
+    - SystemVerilog 기반 UVM 환경에서의 시나리오 기반 검증 수행 및 커버리지 분석.
 ### Board
 <!-- ![Raspberry Pi](https://img.shields.io/badge/Board-RaspberryPi-C51A4A?style=for-the-badge) -->
 ![Basys3](https://img.shields.io/badge/Board-Basys3-0535c6?style=for-the-badge)
