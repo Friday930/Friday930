@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 - Basys3 / Zybo
     - Verilog/SystemVerilog 기반 SoC 설계, VGA 영상 출력, SPI/I2C 통신, FSM 제어 등 다양한 디지털 회로 실습 및 실제 구현.
-    - Vivado와 연계한 논리합성, 타이밍 검증, 하드웨어 디버깅 경험.
+    - Vivado와 연계한 Synthesis, 타이밍 검증, 하드웨어 디버깅 경험.
 
 ## 🕹️ Projects
 ### Harman Semicon Academy
