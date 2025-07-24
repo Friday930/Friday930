@@ -36,9 +36,11 @@ Here are some ideas to get you started:
     - STM32 기반 임베디드 시스템 개발 경험 다수.
     - UART, I2C, SPI 등 저수준 통신 프로토콜 구현 및 센서 데이터 처리 로직 개발.
     - 실시간 제어, 인터럽트 처리 경험.
+
 - Python
     - 센서 데이터 수집, 로그 분석, 테스트 자동화 스크립트 개발 등 실무 활용 경험.
     - 외부 공공 API 데이터 수집 및 분석 프로젝트 진행.
+
 - Verilog / SystemVerilog
     - RISC-V 32bit CPU, UART/SPI/I2C 통신 모듈, VGA 컨트롤러 등 RTL 레벨 디지털 회로 직접 설계.
     - UVM 기반의 SystemVerilog Testbench로 구조화된 모듈 단위 검증 경험 보유.
@@ -53,6 +55,7 @@ Here are some ideas to get you started:
 - Vivado
     - FPGA synthesis, Implementation, 타이밍 분석, Bitstream 생성 및 다운로드까지 전체 Flow 숙련.
     - AXI, SPI, I2C 등 다양한 IP 직접 설계/적용, Logic Analyzer로 실시간 신호 검증.
+
 - Verdi / VCS
     - RTL 시뮬레이션, 웨이브폼 분석을 통한 신호 타이밍 및 버그 원인 분석.
     - SystemVerilog 기반 UVM 환경에서의 시나리오 기반 검증 수행 및 커버리지 분석.
