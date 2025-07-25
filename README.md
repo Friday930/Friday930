@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![Zybo](https://img.shields.io/badge/Board-Zybo-03b335?style=for-the-badge)
 - STM32
     - 실시간 센서 제어 및 데이터 수집, 인터럽트 기반 이벤트 처리, UART 연동 등 임베디드 시스템 구현.
-    - 온습도 센서, 초음파, LCD, RF 모듈 등 다양한 하드웨어 연동 프로젝트 진행.
+    - 온습도 센서, 초음파, TFT-LCD, 등 다양한 하드웨어 연동 프로젝트 진행.
 
 - Basys3 / Zybo
     - Verilog/SystemVerilog 기반 SoC 설계, VGA 영상 출력, SPI/I2C 통신, FSM 제어 등 다양한 디지털 회로 실습 및 실제 구현.
