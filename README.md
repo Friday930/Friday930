@@ -79,6 +79,6 @@ Here are some ideas to get you started:
 - STM32 Wine Celler (https://github.com/Friday930/wine_celler) `C` `Embedded`
 - SPI, I2C with AXI Microblaze (https://github.com/Friday930/May_team_project_I2C_SPI) `Verilog` `RTL`
 - Harman APB SoC (https://github.com/Friday930/APB_Peripheral) `Verilog` `RTL`
-
+- 출근비서 (https://github.com/Friday930/HarmanCA_project1) `Python`
 
 
