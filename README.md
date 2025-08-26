@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 ### Harman Semicon Academy
 - Handband (https://github.com/Friday930/HandBand/tree/main) `Verilog` `SystemVerilog` `C` `Python` `RTOS`
 - Flaggame (https://github.com/Friday930/HarmanSA_June_TeamPJ) `SystemVerilog` `RTL`
-- STM32 Wine Celler (https://github.com/Friday930/wine_celler) `C` `Embedded`
+- STM32 Wine Celler (https://github.com/Friday930/wineceller) `C` `Embedded`
 - SPI, I2C with AXI Microblaze (https://github.com/Friday930/May_team_project_I2C_SPI) `Verilog` `RTL`
 - Harman APB SoC (https://github.com/Friday930/APB_Peripheral) `Verilog` `RTL`
 - 교통 안내 비서 (https://github.com/Friday930/HarmanCA_project1) `Python`
