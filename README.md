@@ -38,8 +38,8 @@ Here are some ideas to get you started:
     - 실시간 제어, 인터럽트 처리 경험.
 
 - Python
-    - 센서 데이터 수집, 로그 분석, 테스트 자동화 스크립트 개발 등 실무 활용 경험.
-    - 외부 공공 API 데이터 수집 및 분석 프로젝트 진행.
+    - 외부 API로부터 실시간 데이터를 자동 수집·가공하고, 데이터 분석 및 가중치 기반 로직을 구현한 프로젝트 경험 보유.
+    - 데이터 파싱, 후처리, 결과 시각화 등 다양한 자동화 및 실전 데이터 분석에 활용.
 
 - Verilog / SystemVerilog
     - RISC-V 32bit CPU, UART/SPI/I2C 통신 모듈, VGA 컨트롤러 등 RTL 레벨 디지털 회로 직접 설계.
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![Zybo](https://img.shields.io/badge/Board-Zybo-03b335?style=for-the-badge)
 - STM32
     - 실시간 센서 제어 및 데이터 수집, 인터럽트 기반 이벤트 처리, UART 연동 등 임베디드 시스템 구현.
-    - 온습도 센서, 초음파, LCD, RF 모듈 등 다양한 하드웨어 연동 프로젝트 진행.
+    - 온습도 센서, 초음파, TFT-LCD, 등 다양한 하드웨어 연동 프로젝트 진행.
 
 - Basys3 / Zybo
     - Verilog/SystemVerilog 기반 SoC 설계, VGA 영상 출력, SPI/I2C 통신, FSM 제어 등 다양한 디지털 회로 실습 및 실제 구현.
@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 ### Harman Semicon Academy
 - Handband (https://github.com/Friday930/HandBand/tree/main) `Verilog` `SystemVerilog` `C` `Python` `RTOS`
 - Flaggame (https://github.com/Friday930/HarmanSA_June_TeamPJ) `SystemVerilog` `RTL`
-- RTOS Wine Celler (https://github.com/Friday930/wine_celler) `C` `Embedded`
+- STM32 Wine Celler (https://github.com/Friday930/wineceller) `C` `Embedded`
 - SPI, I2C with AXI Microblaze (https://github.com/Friday930/May_team_project_I2C_SPI) `Verilog` `RTL`
-- Harman APB SoC (https://github.com/Friday930/APB_Peripheral) `Verilog`
-
+- Harman APB SoC (https://github.com/Friday930/APB_Peripheral) `Verilog` `RTL`
+- 교통 안내 비서 (https://github.com/Friday930/HarmanCA_project1) `Python`
 
 
