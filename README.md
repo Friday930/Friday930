@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 - Verdi / VCS
     - RTL 시뮬레이션, 웨이브폼 분석을 통한 신호 타이밍 및 버그 원인 분석.
-    - SystemVerilog 기반 UVM 환경에서의 시나리오 기반 검증 수행 및 커버리지 분석.
+    - SystemVerilog 기반 UVM 환경에서의 시나리오 기반 검증 수행.
 ### Board
 <!-- ![Raspberry Pi](https://img.shields.io/badge/Board-RaspberryPi-C51A4A?style=for-the-badge) -->
 ![Basys3](https://img.shields.io/badge/Board-Basys3-0535c6?style=for-the-badge)
