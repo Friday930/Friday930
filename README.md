@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-ff5722?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-ff9800?style=for-the-badge)
 - C
-    - STM32 기반 임베디드 시스템 개발 경험 다수.
+    - ARM Core 기반 임베디드 시스템 개발 경험 다수.
     - UART, I2C, SPI 등 저수준 통신 프로토콜 구현 및 센서 데이터 처리 로직 개발.
     - 실시간 제어, 인터럽트 처리 경험.
 
