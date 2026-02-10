@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- Body -->
 
 ## ✋ About Me
-#### :fire: I aim to become a Hardware Engineer.
+#### :fire: I aim to become a Engineer.
 #### 👨‍🎓 Bachelor of Electronic Engineering, Kyung Hee University.
 #### Email : tukankr@naver.com
 
